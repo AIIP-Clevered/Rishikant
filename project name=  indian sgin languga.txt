@@ -1,0 +1,11 @@
+project name=  indian sgin languga
+
+name=Rishi kant panda
+
+grade= 9 e
+
+contry= dheli
+
+age=15
+
+hobbis= dance
